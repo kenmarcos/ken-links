@@ -21,8 +21,10 @@
         <img src="https://img.shields.io/badge/demo-ver%20aplicação-blue?style=for-the-badge" alt="badge-usage" >
     </a>
 </div>
+
 <br/>
-Este projeto trata-se de uma página web semelhante ao [Linktree](https://linktr.ee/), onde são exibidos uma lista de links para redes sociais, sites pessoais e outros recursos online.
+
+Este projeto trata-se de uma página web semelhante ao [Linktree](https://linktr.ee), onde são exibidos uma lista de links para redes sociais, sites pessoais e outros recursos online.
 
 O objetivo desse projeto foi revisistar e treinar os conceitos básicos do desenvolvimento front-end, incluindo manipulação de DOM e JavaScript puro.
 
