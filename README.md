@@ -43,11 +43,11 @@ A página possui design responsivo e tema dark/light.
 ## 🎨 Layout
 
 <p align="center">
-  <img src="./assets/mobile-dark.png" width=250>
+  <img src=".github/mobile-dark.png" width=250>
 
-  <img src="./assets/mobile-light.png" width=250>
+  <img src=".github/mobile-light.png" width=250>
 
-  <img src="./assets/medium-dark.png" width=450>
+  <img src=".github/medium-dark.png" width=450>
 </p>
 
 <!-- TECNOLOGIAS -->
